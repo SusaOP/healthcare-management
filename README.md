@@ -6,10 +6,10 @@ To use immediately, program starts in CLI for login:
 2) Traverse to /release
 3) execute: java -jar healthcare-system.jar
 4) Default email/password Credentials: 
-      manager/password
-      provider/password
-      operator/password
-      auto (NO PASSWORD - RUNS WEEKLY ROUTINE ACTIVITY)
+      manager/password  
+      provider/password  
+      operator/password  
+      auto (NO PASSWORD - RUNS WEEKLY ROUTINE ACTIVITY)  
       
 GUI is found in FrameBuilder.java
 
