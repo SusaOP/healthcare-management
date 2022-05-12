@@ -10,6 +10,7 @@ To use immediately, program starts in CLI for login:
       provider/password  
       operator/password  
       auto (NO PASSWORD - RUNS WEEKLY ROUTINE ACTIVITY)  
+      quit (exits program)
       
 GUI is found in FrameBuilder.java
 
