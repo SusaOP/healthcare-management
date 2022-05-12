@@ -1,0 +1,7 @@
+Test Provider
+1 consultations
+Provider Total Fee: $895.00
+
+Total number of Providers: 1
+Total number of Consultations: 1
+Total Fee to be paid: $895.00
