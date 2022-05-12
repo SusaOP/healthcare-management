@@ -1,4 +1,4 @@
-# healthcare-management
+# Healthcare Management System
 A GUI system for healthcare that allows for management, providers, and operators to work on the same data. 
 
 To use immediately, program starts in CLI for login:
